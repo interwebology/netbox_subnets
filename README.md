@@ -5,6 +5,6 @@ in the BASH script toolbox and get a list of pinging hosts that can be used to b
 
 ## How To Run 
 
-Update the script with the Netbox API endpoint where it says **<IP HERE>** inside the prefix.py script
+Update the script with the Netbox API endpoint where it says **\<IP HERE>** inside the prefix.py script
 and run with **python3 prefix.py** to pull out all the subnets. 
 
